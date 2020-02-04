@@ -4,6 +4,10 @@
 
 ## Getting Started
 
+The SamplePlugin infrastructure can be utilized as a template to construct custom 
+System Architect plugins.  This repository contains basic source code and Cmake scripts 
+necessary to construct a plugin project that builds against the CoreGen libraries.
+
 ## Prerequisites
 * C++14 Compiler (LLVM/Clang and GCC are tested)
 * CMake 3.4.3+
